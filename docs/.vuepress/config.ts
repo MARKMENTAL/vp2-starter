@@ -30,6 +30,8 @@ export default defineUserConfig({
         link: '/about',
       },
     ],
+    // Change to true if you want to see who edited a page
+    contributors: false,
   }),
   
 });
